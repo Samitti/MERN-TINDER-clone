@@ -8,3 +8,7 @@
     object-fit: contain;
     height: 48px;
 }
+
+.header__icon {
+    padding: 20px;
+}
