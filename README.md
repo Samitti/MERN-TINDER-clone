@@ -1,4 +1,4 @@
-# Tinder-backend
+# Tinder-clone-frontend
 
 In this project I built the front-end for the tinder-clone project as part of my MERN projects. 
 
