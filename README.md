@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Tinder-clone-frontend
-=======
-# Tinder-clone
->>>>>>> 10131ec6df6cce393275d02479f71dae6627f1d8
 
 In this project I built the front-end for the tinder-clone project as part of my MERN projects. 
 
