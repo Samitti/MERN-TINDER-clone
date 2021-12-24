@@ -8,6 +8,7 @@ In this project I built the front-end for the tinder-clone project as part of my
 - React
 - Mongodb
 - mongoose
+- MaterialUI
 - ES6
 - CSS
 
