@@ -14,7 +14,7 @@ In this project I built the front-end for the tinder-clone project as part of my
 [Live Demo Link](https://tinder-clone-386fd.web.app/)
 
 
-![screenshot 1](Capture.jpg)
+![screenshot 1](./Capture.jpg)
 
 ## Getting Started
 
